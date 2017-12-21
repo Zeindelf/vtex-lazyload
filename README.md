@@ -15,7 +15,7 @@ A [Lazysizes](https://github.com/aFarkas/lazysizes) based plugin Lazyload for Vt
 ## Usage
 ```html
 <!-- Vitrine -->
-<div class="your-classe js--lazyload has--lazyload" data-noscript="">
+<div class="your-class js--lazyload has--lazyload" data-noscript="">
   <noscript>$product.GetImageTag(30)</noscript>
 </div>
 ```
