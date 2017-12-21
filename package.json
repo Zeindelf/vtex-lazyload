@@ -1,6 +1,6 @@
 {
     "name": "vtex-lazyload",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "description": "Lazyload for Vtex Components",
     "main": "dist/vtex-lazyload.min.js",
     "repository": {
