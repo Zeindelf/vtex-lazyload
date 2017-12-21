@@ -3,16 +3,14 @@
 A [Lazysizes](https://github.com/aFarkas/lazysizes) based plugin Lazyload for Vtex Components.
 
 ## Instalation
-`$ npm install vtex-lazyload`
+`$ npm install vtex-lazyload` or download the file
 
 ```html
-<!-- CSS -->
-<link rel="stylesheet" href="/arquivos/vtex-lazyload.min.css" media="all"/>
-<!-- Javascript -->
 <script type="text/javascript" src="/arquivos/vtex-lazyload.min.js"></script>
 ```
 
 ## Usage
+After import/call files on page, its initialize automatically
 ```html
 <!-- Vitrine -->
 <div class="your-class js--lazyload has--lazyload" data-noscript="">
@@ -27,6 +25,7 @@ A [Lazysizes](https://github.com/aFarkas/lazysizes) based plugin Lazyload for Vt
 ```
 
 **Setting custom styles**
+
 You can use the following classes to custom style:
 ```css
 .is--lazyloaded { /* Uses when element is visible */ }
