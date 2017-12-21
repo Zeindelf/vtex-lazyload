@@ -1,0 +1,21 @@
+{
+    "name": "taskerify",
+    "version": "0.0.1",
+    "description": "Lazyload for Vtex Components",
+    "main": "dist/vtex-lazyload.min.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/zeindelf/vtex-lazyload"
+    },
+    "keywords": [
+        "vtex",
+        "lazyload",
+        "lazysizes"
+    ],
+    "author": {
+        "name": "Wellington Barreto",
+        "email": "zeindelf@hotmail.com",
+        "homepage": "https://www.zeindelf.com"
+    },
+    "license": "MIT"
+}
