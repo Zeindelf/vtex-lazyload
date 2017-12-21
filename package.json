@@ -1,5 +1,5 @@
 {
-    "name": "taskerify",
+    "name": "vtex-lazyload",
     "version": "0.0.1",
     "description": "Lazyload for Vtex Components",
     "main": "dist/vtex-lazyload.min.js",
